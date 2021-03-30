@@ -18,6 +18,7 @@ public final class HookHelper {
             Class<?> activityManagerNativeClass = Class.forName("android.app.ActivityManagerNative");
 
             // 获取 gDefault 这个字段, 想办法替换它
+//            Field gDefaultField = activityManagerNativeClass.getDeclaredField("gDefault");
             Field gDefaultField = activityManagerNativeClass.getDeclaredField("gDefault");
             gDefaultField.setAccessible(true);
 

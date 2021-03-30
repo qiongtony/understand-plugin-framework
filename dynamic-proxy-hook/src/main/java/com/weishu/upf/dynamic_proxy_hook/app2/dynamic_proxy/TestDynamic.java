@@ -21,6 +21,7 @@ public class TestDynamic {
         women = (Shopping) Proxy.newProxyInstance(Shopping.class.getClassLoader(),
                 women.getClass().getInterfaces(), new ShoppingHandler(women));
 
+        // doShopping->InvocationHandler.invoke（传入了interface的方法名和参数）->执行代理逻辑（这里可能还需要执行interface实现类）
         System.out.println(Arrays.toString(women.doShopping(100)));
     }
 }

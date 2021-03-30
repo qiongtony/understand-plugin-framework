@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ams-pms-hook/ams-pms-hook.iml" filepath="$PROJECT_DIR$/ams-pms-hook/ams-pms-hook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/binder-hook/binder-hook.iml" filepath="$PROJECT_DIR$/binder-hook/binder-hook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/classloader-hook/classloader-hook.iml" filepath="$PROJECT_DIR$/classloader-hook/classloader-hook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contentprovider-management/contentprovider-management.iml" filepath="$PROJECT_DIR$/contentprovider-management/contentprovider-management.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dynamic-proxy-hook/dynamic-proxy-hook.iml" filepath="$PROJECT_DIR$/dynamic-proxy-hook/dynamic-proxy-hook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/intercept-activity/intercept-activity.iml" filepath="$PROJECT_DIR$/intercept-activity/intercept-activity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/receiver-management/receiver-management.iml" filepath="$PROJECT_DIR$/receiver-management/receiver-management.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-management/service-management.iml" filepath="$PROJECT_DIR$/service-management/service-management.iml" />
-      <module fileurl="file://$PROJECT_DIR$/understand-plugin-framework.iml" filepath="$PROJECT_DIR$/understand-plugin-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ams-pms-hook/ams-pms-hook.iml" filepath="$PROJECT_DIR$/ams-pms-hook/ams-pms-hook.iml" group="understand-plugin-framework/ams-pms-hook" />
+      <module fileurl="file://$PROJECT_DIR$/binder-hook/binder-hook.iml" filepath="$PROJECT_DIR$/binder-hook/binder-hook.iml" group="understand-plugin-framework/binder-hook" />
+      <module fileurl="file://$PROJECT_DIR$/classloader-hook/classloader-hook.iml" filepath="$PROJECT_DIR$/classloader-hook/classloader-hook.iml" group="understand-plugin-framework/classloader-hook" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider-management/contentprovider-management.iml" filepath="$PROJECT_DIR$/contentprovider-management/contentprovider-management.iml" group="understand-plugin-framework/contentprovider-management" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-proxy-hook/dynamic-proxy-hook.iml" filepath="$PROJECT_DIR$/dynamic-proxy-hook/dynamic-proxy-hook.iml" group="understand-plugin-framework/dynamic-proxy-hook" />
+      <module fileurl="file://$PROJECT_DIR$/intercept-activity/intercept-activity.iml" filepath="$PROJECT_DIR$/intercept-activity/intercept-activity.iml" group="understand-plugin-framework/intercept-activity" />
+      <module fileurl="file://$PROJECT_DIR$/receiver-management/receiver-management.iml" filepath="$PROJECT_DIR$/receiver-management/receiver-management.iml" group="understand-plugin-framework/receiver-management" />
+      <module fileurl="file://$PROJECT_DIR$/service-management/service-management.iml" filepath="$PROJECT_DIR$/service-management/service-management.iml" group="understand-plugin-framework/service-management" />
+      <module fileurl="file://$PROJECT_DIR$/understand-plugin-framework.iml" filepath="$PROJECT_DIR$/understand-plugin-framework.iml" group="understand-plugin-framework" />
     </modules>
   </component>
 </project>

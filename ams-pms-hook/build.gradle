@@ -13,13 +13,12 @@ repositories {
 }
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 29
 
     defaultConfig {
         applicationId "com.weishu.upf.ams_pms_hook.app"
-        minSdkVersion 8
-        targetSdkVersion 19
+        minSdkVersion 21
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
     }
